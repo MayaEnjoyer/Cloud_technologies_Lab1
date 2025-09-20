@@ -644,6 +644,13 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 #### 5)
 
+#### 6) After getting acquainted with cloud development environments, we chose GitHub Codespaces, after which we wrote code that displays the team composition and the names of the project developers.
+
+>Here is the repository link to connect to GitHub Codespaces: https://github.com/MayaEnjoyer/AIMeetMate-team
+
+#### 7)
+
+
 
 
 
