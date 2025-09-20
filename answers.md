@@ -638,7 +638,12 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 >Here is the link to a shared Google Sheets: https://surl.lu/ufgeot 
 
-#### 4)
+#### 4) After creating a Google Sheet, we chose a project management service called Notion and added tasks, set deadlines, and assigned performers.
+
+>Here is the link to a shared Notion: https://surl.lt/ltxegg
+
+#### 5)
+
 
 
 
