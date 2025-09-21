@@ -6,6 +6,8 @@ Cloud Computing and services
 
 #### In this work, we will do the job about cloud technologies and services. This work was created for the purpose of educational content, as an assignment for the discipline "Cloud Technologies" of the Kyiv College of Communications.
 
+>The work was performed by: Bilous Maya, Hubar Maksym, Slyusarchuk Anton, Mykhalyov Vladislav
+
 ---
 
 ![Cloud Computing](images/Cloud_Computing1.gif)
@@ -15,6 +17,8 @@ Cloud Computing and services
     Dictionary of terms:
 
 </h1>
+
+>Performed by Hubar Maksym:
 
 ### 1) History of cloud computing:
 
@@ -240,6 +244,8 @@ Google Colab/JupyterLab (RTC) support collaborative notebook editing for log ana
     Theoretical research tasks:
 
 </h1>
+
+>Performed by Bilous Maya:
 
 ### 1) Review and comparison of official and productive tools:
 
@@ -626,29 +632,49 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 #### Now we have a practical assignment in which we will do step-by-step tasks in order to gain practical experience working in a team of IT specialists on a joint project. For us, it will be "An assistant who, after team meetings, generates summaries, action items, and updates the backlog (through integration with Trello/Asana/Jira)".
 
+>Performed by Hubar Maksym:
+
 #### 1) The first thing to do is create a new folder on Google Drive, we call it “AIMeetMate”. After creating the new folder, a link was sent to other colleagues with whom we are working on the project with editing rights using the “Give access” function. After that, we opened access to view the folder via the link.
 
 >Here is the link: https://surl.li/pwvkzg
 
+---
+
+>Performed by Bilous Maya:
+ 
 #### 2) Next, we create a joint Google Docs document. After that, we get acquainted with the standard documentation templates when working on a project. After that, we choose the one we need and create the appropriate documentation for the project.
 
 >Here is the link to a shared Google document: https://surl.li/cxklfy 
+
+---
+>Performed by Hubar Maksym:
 
 #### 3) Next, we need to create a Google Sheets spreadsheet to monitor project progress.
 
 >Here is the link to a shared Google Sheets: https://surl.lu/ufgeot 
 
+---
+>Performed by Bilous Maya:
+
 #### 4) After creating a Google Sheet, we chose a project management service called Notion and added tasks, set deadlines, and assigned performers.
 
 >Here is the link to a shared Notion: https://surl.lt/ltxegg
 
+---
+
 #### 5)
+
+---
+
+>Performed by Bilous Maya, Hubar Maksym, Slyusarchuk Anton, Mykhalyov Vladislav:
 
 #### 6) After getting acquainted with cloud development environments, we chose GitHub Codespaces, after which we wrote code that displays the team composition and the names of the project developers.
 
 >Here is the repository link to connect to GitHub Codespaces: https://github.com/MayaEnjoyer/Unique-team
 
->And here is the repository link to GitHub Codespaces: 
+>And here is the repository link to GitHub Codespaces: https://surl.li/xtvnwk
+
+---
 
 #### 7)
 
@@ -696,6 +722,7 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 
 ---
+>Performed by Hubar Maksym:
 
 ### Answers to the control questions:
 
