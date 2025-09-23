@@ -662,7 +662,11 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 ---
 
-#### 5)
+>Performed by Mykhalyov Vladislav: 
+
+#### 5) Next, we created a new design layout for user service.
+
+>Here is the link for file in Figma: https://surl.li/pzlpoe
 
 ---
 
@@ -676,50 +680,11 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 ---
 
-#### 7)
+>Performed by Slyusarchuk Anton: 
 
+#### 7) And in the end, using the online service Canva, we made a small presentation that introduces our team.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>Here is the link to presentation in Canva:
 
 ---
 >Performed by Hubar Maksym:
