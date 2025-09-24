@@ -684,7 +684,7 @@ Why is it SaaS? Codespaces are managed cloud dev environments launched from a Gi
 
 #### 7) And in the end, using the online service Canva, we made a small presentation that introduces our team.
 
->Here is the link to presentation in Canva:
+>Here is the link to presentation in Canva: https://surl.li/lrwkgl
 
 ---
 >Performed by Hubar Maksym:
